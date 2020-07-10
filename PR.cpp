@@ -28,7 +28,6 @@ void policyLRU();
 void policyOPT();
 
 /*Global Variables*/
-
 int memsize;
 
 vector<request> pagereqs;
